@@ -10,31 +10,31 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.01600203200406401
+      coreDiameter: 0.012700025400050802
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.01600203200406401
+      coreDiameter: 0.012700025400050802
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.01600203200406401
+      coreDiameter: 0.012700025400050802
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.01600203200406401
+      coreDiameter: 0.012700025400050802
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.01600203200406401
+      coreDiameter: 0.012700025400050802
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
@@ -44,9 +44,9 @@ data:
     divAngle: 15.0
     efficiency: 0.92
     erosionCoeff: 0.0
-    exit: 0.03976736093472188
+    exit: 0.03826189992379985
     slagCoeff: 0.0
-    throat: 0.015030657861315725
+    throat: 0.014014655829311658
     throatLength: 0.0
   propellant:
     density: 1625.0868456817973
@@ -55,7 +55,7 @@ data:
     - a: 6.994600946367753e-05
       k: 1.235
       m: 22.959
-      maxPressure: 10342500.0
+      maxPressure: 10342500.000000002
       minPressure: 0.0
       n: 0.321
       t: 2616.5
