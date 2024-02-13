@@ -10,44 +10,44 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.016510033020066043
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.01778003556007112
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.019050038100076203
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.020320040640081284
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.021590043180086362
       diameter: 0.04572009144018289
       inhibitedEnds: Neither
       length: 0.07680975361950725
     type: BATES
   nozzle:
-    convAngle: 65.0
+    convAngle: 60.0
     divAngle: 15.0
     efficiency: 0.92
     erosionCoeff: 0.0
-    exit: 0.03826189992379985
+    exit: 0.031750063500127004
     slagCoeff: 0.0
-    throat: 0.014014655829311658
-    throatLength: 0.0
+    throat: 0.015240030480060961
+    throatLength: 0.0031750063500127004
   propellant:
     density: 1625.0868456817973
     name: RCS - Blue Thunder
@@ -55,7 +55,7 @@ data:
     - a: 6.994600946367753e-05
       k: 1.235
       m: 22.959
-      maxPressure: 10342500.000000002
+      maxPressure: 10342500.0
       minPressure: 0.0
       n: 0.321
       t: 2616.5
