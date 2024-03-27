@@ -12,7 +12,7 @@ data:
   - properties:
       coreDiameter: 0.022225044450088903
       diameter: 0.0633223266446533
-      inhibitedEnds: Top
+      inhibitedEnds: Neither
       length: 0.13182626365252734
     type: BATES
   - properties:
@@ -40,8 +40,8 @@ data:
     erosionCoeff: 0.0
     exit: 0.047625095250190506
     slagCoeff: 0.0
-    throat: 0.015748031496062995
-    throatLength: 0.005080010160020321
+    throat: 0.01651003302006604
+    throatLength: 0.007620015240030481
   propellant:
     density: 1815.801346903865
     name: RCS - Slow White Lightning
