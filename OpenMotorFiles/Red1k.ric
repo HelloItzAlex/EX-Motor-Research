@@ -10,50 +10,44 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.019050038100076203
+      coreDiameter: 0.02024130048260097
       diameter: 0.04749809499619
-      inhibitedEnds: Both
-      length: 0.08343916687833378
+      inhibitedEnds: Neither
+      length: 0.11049022098044196
     type: BATES
   - properties:
-      coreDiameter: 0.019050038100076203
+      coreDiameter: 0.02024130048260097
       diameter: 0.04749809499619
-      inhibitedEnds: Both
-      length: 0.08343916687833378
+      inhibitedEnds: Neither
+      length: 0.11049022098044196
     type: BATES
   - properties:
-      coreDiameter: 0.019050038100076203
+      coreDiameter: 0.02024130048260097
       diameter: 0.04749809499619
-      inhibitedEnds: Both
-      length: 0.08343916687833378
+      inhibitedEnds: Neither
+      length: 0.11049022098044196
     type: BATES
   - properties:
-      coreDiameter: 0.019050038100076203
+      coreDiameter: 0.021432562865125734
       diameter: 0.04749809499619
-      inhibitedEnds: Both
-      length: 0.08343916687833378
+      inhibitedEnds: Neither
+      length: 0.11049022098044196
     type: BATES
   - properties:
-      coreDiameter: 0.019050038100076203
+      coreDiameter: 0.023020066040132084
       diameter: 0.04749809499619
-      inhibitedEnds: Both
-      length: 0.08343916687833378
-    type: BATES
-  - properties:
-      coreDiameter: 0.019050038100076203
-      diameter: 0.04749809499619
-      inhibitedEnds: Top
-      length: 0.08343916687833378
+      inhibitedEnds: Neither
+      length: 0.11049022098044196
     type: BATES
   nozzle:
     convAngle: 60.0
     divAngle: 15.0
     efficiency: 0.92
     erosionCoeff: 0.0
-    exit: 0.031750063500127004
+    exit: 0.044450088900177806
     slagCoeff: 0.0
-    throat: 0.01155702311404623
-    throatLength: 0.012997205994411992
+    throat: 0.015275590551181106
+    throatLength: 0.015798831597663196
   propellant:
     density: 1729.9936613032248
     name: RCS Redline
