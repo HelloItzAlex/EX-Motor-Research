@@ -1,0 +1,61 @@
+data:
+  config:
+    ambPressure: 101325.0
+    burnoutThrustThres: 0.1
+    burnoutWebThres: 2.5400050800101604e-05
+    mapDim: 750
+    maxMassFlux: 1406.4697609001405
+    maxPressure: 10342500.0
+    minPortThroat: 2.0
+    timestep: 0.03
+  grains:
+  - properties:
+      coreDiameter: 0.038100076200152405
+      diameter: 0.08305816611633224
+      inhibitedEnds: Neither
+      length: 0.1841503683007366
+    type: BATES
+  - properties:
+      coreDiameter: 0.038100076200152405
+      diameter: 0.08305816611633224
+      inhibitedEnds: Neither
+      length: 0.3683007366014732
+    type: BATES
+  - properties:
+      coreDiameter: 0.038100076200152405
+      diameter: 0.08305816611633224
+      inhibitedEnds: Neither
+      length: 0.3683007366014732
+    type: BATES
+  - properties:
+      coreDiameter: 0.038100076200152405
+      diameter: 0.08305816611633224
+      inhibitedEnds: Neither
+      length: 0.3683007366014732
+    type: BATES
+  nozzle:
+    convAngle: 60.0
+    divAngle: 15.0
+    efficiency: 0.97
+    erosionCoeff: 2.2103751191511918e-10
+    exit: 0.09525019050038101
+    slagCoeff: 0.0
+    throat: 0.033350266700533406
+    throatLength: 0.025400050800101603
+  propellant:
+    density: 1752.9679771253316
+    name: RCS - PropX - O5500 Version
+    tabs:
+    - a: 3.945371021854406e-06
+      k: 1.179
+      m: 28.236
+      maxPressure: 10342500.000000002
+      minPressure: 0.0
+      n: 0.488
+      t: 3427.895
+type: !!python/object/apply:uilib.fileIO.fileTypes
+- 3
+version: !!python/tuple
+- 0
+- 5
+- 0
